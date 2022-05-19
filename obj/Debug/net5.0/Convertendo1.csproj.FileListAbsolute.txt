@@ -1,0 +1,16 @@
+C:\Users\WINDOWS\source\repos\Convertendo1\bin\Debug\net5.0\Convertendo1.exe
+C:\Users\WINDOWS\source\repos\Convertendo1\bin\Debug\net5.0\Convertendo1.deps.json
+C:\Users\WINDOWS\source\repos\Convertendo1\bin\Debug\net5.0\Convertendo1.runtimeconfig.json
+C:\Users\WINDOWS\source\repos\Convertendo1\bin\Debug\net5.0\Convertendo1.runtimeconfig.dev.json
+C:\Users\WINDOWS\source\repos\Convertendo1\bin\Debug\net5.0\Convertendo1.dll
+C:\Users\WINDOWS\source\repos\Convertendo1\bin\Debug\net5.0\Convertendo1.pdb
+C:\Users\WINDOWS\source\repos\Convertendo1\obj\Debug\net5.0\Convertendo1.csproj.AssemblyReference.cache
+C:\Users\WINDOWS\source\repos\Convertendo1\obj\Debug\net5.0\Convertendo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS\source\repos\Convertendo1\obj\Debug\net5.0\Convertendo1.AssemblyInfoInputs.cache
+C:\Users\WINDOWS\source\repos\Convertendo1\obj\Debug\net5.0\Convertendo1.AssemblyInfo.cs
+C:\Users\WINDOWS\source\repos\Convertendo1\obj\Debug\net5.0\Convertendo1.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\source\repos\Convertendo1\obj\Debug\net5.0\Convertendo1.dll
+C:\Users\WINDOWS\source\repos\Convertendo1\obj\Debug\net5.0\refint\Convertendo1.dll
+C:\Users\WINDOWS\source\repos\Convertendo1\obj\Debug\net5.0\Convertendo1.pdb
+C:\Users\WINDOWS\source\repos\Convertendo1\obj\Debug\net5.0\Convertendo1.genruntimeconfig.cache
+C:\Users\WINDOWS\source\repos\Convertendo1\obj\Debug\net5.0\ref\Convertendo1.dll
